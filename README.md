@@ -1,2 +1,2 @@
-# Diagrama_Redes_F2
+# Trabalho-Redes_F2
 PROJETAR UMA REDE DE COMUNICAÇÃO DE DADOS
